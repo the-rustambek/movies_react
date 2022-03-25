@@ -10,3 +10,16 @@
     background-color: red;
     
 }
+
+.card{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+}
+
+.right{
+    background-color: red;
+    color: white;
+    padding: 2px 15px;
+}

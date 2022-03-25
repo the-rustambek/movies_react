@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Loader from "../Loader/Loader";
 import Movies from "../Movies/Movies";
 import Search from "../Search/Search";
+import "./Main.css";
 
 export default function Main(){
     const [movies,setMovies]=useState("panda")

@@ -9,7 +9,7 @@ export default function Movie(props) {
           <img  className="activator card-pic" src={Poster} />
         </div>
         <div className="card-content">
-          <span className="card-title activator grey-text text-darken-4">{Title}<i className="material-icons right">more_vert</i></span>
+          <span className="card-title activator grey-text text-darken-4">{Title}</span>
           <p>{Year} <span className="right">{Type}</span></p>
         </div>
       </div>
