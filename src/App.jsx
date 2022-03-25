@@ -6,10 +6,10 @@ import Main from './Component/Main/Main';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
         <Header />
         <Main />
-        <Footer />
+        <Footer className="app-footer" />
     </div>
   );
 }

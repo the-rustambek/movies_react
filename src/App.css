@@ -1,0 +1,9 @@
+.app{
+    position: relative;
+    height: 100%;
+}
+
+.app-footer{
+    position: absolute;
+    bottom: 0;
+}

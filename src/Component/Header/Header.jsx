@@ -10,13 +10,13 @@ return(
         </a>
         <ul className="right hide-on-med-and-down">
             <li>
-                <a href="#">Saas</a>
+                <a href="#">Movies</a>
             </li>
             <li>
-                <a href="#">Saas</a>
+                <a href="#">Serials</a>
             </li>
             <li>
-                <a href="#">Saas</a>
+                <a href="#">Cartoon</a>
             </li>
         </ul>
     </div>
