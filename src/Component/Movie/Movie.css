@@ -1,0 +1,12 @@
+.card-pic{
+    object-fit: contain;
+    width: 400px;
+    height: 200px;
+    background-color: rgb(255, 0, 0);
+}
+
+.card-image{
+    width: 100%;
+    background-color: red;
+    
+}
